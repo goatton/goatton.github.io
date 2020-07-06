@@ -19,5 +19,5 @@ function myRequestGet() {
 }
 
 $(document).ready(function () {
-    myRequestPost();
+    myRequestGet();
 });
